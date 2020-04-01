@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A4 Login Transactions OOP Encapsulation", "A4 Login Transactions OOP Encapsulation\A4 Login Transactions OOP Encapsulation.csproj", "{3398FA70-DF8F-4C29-BAA9-BAE8BC144E5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3398FA70-DF8F-4C29-BAA9-BAE8BC144E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3398FA70-DF8F-4C29-BAA9-BAE8BC144E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3398FA70-DF8F-4C29-BAA9-BAE8BC144E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3398FA70-DF8F-4C29-BAA9-BAE8BC144E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC291470-43ED-4F39-9931-2374EE980306}
+	EndGlobalSection
+EndGlobal
